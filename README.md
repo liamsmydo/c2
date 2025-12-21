@@ -1,9 +1,6 @@
 # c2 
 
-lightweight loaders / encryptors for c2 during engagements, defender bypass
-
-Not intended for malicious use outside of engagments where permission is not granted.
-
+lightweight loaders / encryptors for c2 during engagements, simple defender bypass
 
 Example usage
 
@@ -20,3 +17,4 @@ compile loader.c linking the shellcode object file
 x86_64-w64-mingw32-gcc loader.c shellcode.o -o whateveryouwant.exe
 ```
 
+## Not intended for malicious use outside of engagments where permission is not granted.
