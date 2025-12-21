@@ -1,4 +1,4 @@
-# c2 
+# C2 Resources for delivery  
 
 lightweight loaders / encryptors for c2 during engagements, simple defender bypass
 
